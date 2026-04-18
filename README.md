@@ -30,8 +30,9 @@ To maintain a low memory footprint, the browser implements several specific conf
 
 1. Install the required libraries via pip:
    pip install PyQt5 PyQtWebEngine
+   pip install -r requirements.txt
 
-2. Run the script:
+3. Run the script:
    python browser_pybrowser.py
 
 # Size
