@@ -34,6 +34,8 @@ To maintain a low memory footprint, the browser implements several specific conf
 2. Run the script:
    python browser_pybrowser.py
 
+# Size
+5 KB
 
 
 ## License
