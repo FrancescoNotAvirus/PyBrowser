@@ -32,18 +32,9 @@ To maintain a low memory footprint, the browser implements several specific conf
    pip install PyQt5 PyQtWebEngine
 
 2. Run the script:
-   python main.py
+   python browser_pybrowser.py
 
-## Interface Overview
-- Toolbar: Contains Back, Forward, Reload, Home, and New Tab actions using standard system icons.
-- URL Bar: Supports direct URL entry with return-key execution.
-- Tab Bar: Supports closable tabs with a minimum of one active tab maintained at all times.
 
-## Planned Improvements
-- Implementation of a local SQLite database for history tracking.
-- QSS integration for interface customization and dark mode.
-- Custom download manager to handle QWebEngineDownloadItem events.
-- Bookmark serialization via JSON.
 
 ## License
 MIT
